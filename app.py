@@ -3,7 +3,7 @@ import click
 
 @click.command()
 def hello():
-    click.echo('Hello World! Happy Sunday!')
+    click.echo('Hello Aniruddha!')
 
 if __name__ == '__main__':
     hello()
