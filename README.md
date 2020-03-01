@@ -1,2 +1,4 @@
 # docker-container-project
-Docker Containers and AWS Cloud9
+Python, AWS EC2, AWS Cloud9, Docker Container, CircleCI, Docker Hub, Git
+
+Docker Hub Container for this project: https://hub.docker.com/r/anushirahatti/app
