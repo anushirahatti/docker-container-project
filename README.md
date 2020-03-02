@@ -1,4 +1,4 @@
-# docker-container-project  [![CircleCI](https://circleci.com/gh/circleci/docker-container-project.svg?style=svg)](https://circleci.com/gh/circleci/docker-container-project)
+# docker-container-project  [![CircleCI](https://circleci.com/gh/anushirahatti/docker-container-project.svg?style=svg&circle-token=docker-container-project)](<LINK>)
 
 #### Description:
 Created Docker Container in AWS Cloud9, Integrated CircleCI and Published to Docker Hub and GitHub repositories.
