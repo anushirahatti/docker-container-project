@@ -10,7 +10,7 @@ Python, AWS EC2, AWS Cloud9, Docker Container, CircleCI, Docker Hub, Git
 https://hub.docker.com/r/anushirahatti/app
 
 #### Steps to Run my project in your environment:
-Step 1: Docker Pull Command - *docker pull anushirahatti/app*
+Step 1: Docker Pull Command - *docker pull anushirahatti/app* <br />
 Step 2: Docker Run Command - *docker run -it anushirahatti/app bash*
 
 #### Here is the link to demo of this project:
