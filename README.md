@@ -5,7 +5,7 @@ Created Docker Container in AWS Cloud9, Integrated CircleCI and Published to Doc
 
 
 ### Skills:
-Python, AWS EC2, AWS Cloud9, Docker Container, CircleCI, Docker Hub, Git
+Python, AWS EC2, AWS Cloud9, Docker Container, CircleCI, Docker Hub, Git.
 
 
 ### Docker Hub Container for this project: 
